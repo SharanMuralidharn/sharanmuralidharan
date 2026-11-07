@@ -22,7 +22,4 @@ Hi everyone! I’m **Sharan Muralidharan**, currently in my final year of **Comp
 
 I believe that learning never stops. My curiosity drives me to constantly pick up new skills, experiment with technologies, and stay updated with the latest trends in tech.
 
-## 📈 GitHub Stats
-
-![Sharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharanmuralidharan&show_icons=true&theme=radical)
-
+Peace ✌️
